@@ -21,7 +21,7 @@ const About = () => {
 
         <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
-            <AnimatedBody text="I'm Eshayat Al-Wasiu, a passionate frontend web developer and a designer. With four years of experience crafting digital experiences, I specialize in transforming ideas into engaging and functional websites. My skill set encompasses frontend development, web design, and graphics design, allowing me to deliver comprehensive solutions tailored to my clients' needs. I'm providing service worldwide." />
+            <AnimatedBody text="I'm Eshayat Al-Wasiu, a passionate frontend web developer and a designer. With 6 years of experience crafting digital experiences, I specialize in transforming ideas into engaging and functional websites. My skill set encompasses frontend development, web design, and graphics design, allowing me to deliver comprehensive solutions tailored to my clients' needs. I'm providing service worldwide." />
 
             <AnimatedBody
               delay={0.1}
