@@ -9,7 +9,7 @@ const About = () => {
       className="relative z-10 w-full items-center justify-center overflow-hidden bg-[#0E1016] bg-cover bg-center pb-36 pt-16 md:pb-44 md:pt-20 lg:pb-56 lg:pt-20"
       id="about"
     >
-      <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
+      <div className="mx-auto flex w-[100%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <AnimatedTitle
           text={"Eshayat Al-Wasiu."}
           className={
@@ -34,6 +34,13 @@ const About = () => {
             />
           </div>
         </div>
+      </div>
+      <div className="mx-auto w-screen">
+        <img
+          className="mx-auto mt-12 w-[600px] rounded-xl"
+          src="cv.jpg"
+          alt="CV"
+        />
       </div>
     </section>
   );
