@@ -38,7 +38,7 @@ const About = () => {
       <div className="mx-auto w-screen">
         <img
           className="mx-auto mt-12 w-[600px] rounded-xl"
-          src="cv.jpg"
+          src="CV.png"
           alt="CV"
         />
       </div>
