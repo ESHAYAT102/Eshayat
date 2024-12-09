@@ -40,7 +40,7 @@ const Contact = () => {
               }
             />
             <Link
-              href="mailto:eshayat.wasiu@gmail.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20Want%20To%20Collaborate%20With%20You...%20Reach%20out%20as%20soon%20as%20you%20can."
+              href="mailto:contact@eshayat.com?subject=%5Bweb.eshayat.com%5D"
               target="_blank"
               aria-label=" Send me an email"
               className="mt-4 w-[147px] flex-1 p-2 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
