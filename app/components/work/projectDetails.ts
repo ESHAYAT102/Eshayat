@@ -11,21 +11,22 @@ export type ProjectProps = {
 export const projects = [
   {
     id: 0,
-    name: "Snap!",
-    description: "open-source CSS framework inspired by TailwindCSS.",
-    github: "https://github.com/ESHAYAT102/snap",
-    demo: "https://snap-css.vercel.app/",
-    image: "/projects/snap.png",
+    name: "Blog",
+    description:
+      "My Personal Blog Page.",
+    github: "https://github.com/ESHAYAT102",
+    demo: "https://blog.eshayat.com",
+    image: "/projects/blog.png",
     available: true,
   },
   {
     id: 1,
-    name: "Web Development Roadmap",
+    name: "Tech Stack Builder",
     description:
-      "100% free web development roadmap which starts from absolute basic so that anyone can start it from scratch.",
-    github: "https://github.com/ESHAYAT102/Web-Development-Roadmap",
-    demo: "https://web-development-roadmap.vercel.app/",
-    image: "/projects/webdev.png",
+      "Make Custom Teck Stacks For New Projects.",
+    github: "https://github.com/ESHAYAT102",
+    demo: "https://tech-stack.eshayat.com",
+    image: "/projects/tsb.png",
     available: true,
   },
   {
